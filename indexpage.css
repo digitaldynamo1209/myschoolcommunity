@@ -44,7 +44,7 @@ button {
     padding: 10px 25px;
     font-size: 1.2rem;
     color: #fff;
-    background-color: #007bff;
+    background-color: rgb(46, 206, 46);
     border: none;
     border-radius: 5px;
     text-decoration: none;
@@ -52,15 +52,14 @@ button {
 }
 
 button:hover {
-    background-color: rgb(46, 206, 46);
+    background-color: #007bff;
 }
 
 footer {
     text-align: center;
-    background-color: #007bff;
+    background-color: rgb(46, 206, 46);
     height: 50px;
     color: #fff;
-    font-size: 40px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
